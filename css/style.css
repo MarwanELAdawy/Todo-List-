@@ -1,0 +1,5 @@
+body{padding-top:20px; font-family:arial;}
+ul{width:100%; float:left; font:13px arial; color:black}
+li {width:100%; float:left; padding:3px 10px;}
+.button{background:#ccc; display:inline-block; color:black; padding:2px 12px; text-decoration:none;  border-radius:5px; font-size:11px;}
+.error{font-size:11px; position:absolute; top:16px; left:10px; display:block; color:red;}
